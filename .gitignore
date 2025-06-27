@@ -1,11 +1,11 @@
 __pycache__
+data
 local
 outdated
 log
 *.egg-info
 *.pyomo.lp
 dyna_gym/agents/test.py
-
 .idea/
 examples/uct_nativecartpole.py
 nsmdp-algorithms
@@ -106,4 +106,3 @@ dyna_gym/envs/utils_LOCAL_3310127.py
 dyna_gym/envs/utils_LOCAL_3322608.py
 dyna_gym/envs/utils_REMOTE_3310127.py
 dyna_gym/envs/utils_REMOTE_3322608.py
-data
